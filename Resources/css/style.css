@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+}
+
+li, #bottomlist {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: White;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p.main {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+#designed {
+  color: White;
+}
+
+#copyright {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: White;
+  background-color: Dimgray;
+}
